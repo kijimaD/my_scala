@@ -3,3 +3,4 @@ println("hello" + " " + "world")
 println(List("I", "am", "cow"))
 
 // amm myScript.sc
+// amm -w myScript.sc // watch file change
